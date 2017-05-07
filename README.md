@@ -1,1 +1,1 @@
-# Elgamal-Encryption
+# Elgamal-Encryption write your text in plainText file and launch the app
